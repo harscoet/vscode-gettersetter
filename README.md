@@ -1,1 +1,1 @@
-# vscode-gettersetter
+# vscode-earlybirds README
